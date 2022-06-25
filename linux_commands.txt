@@ -1,3 +1,4 @@
+
 PWD - Print working directory
 
 whoami: will print the current logged users name
@@ -7,3 +8,23 @@ whoami: will print the current logged users name
 mkdir will create the folder
 
 ls list all the files
+
+rmdir : rmdri directory_name :- it will remove the empty directory
+
+
+touch  --   touch filename :- it will create the file with specified name
+
+rm        rm filename  :-it will remove the specified file
+
+rm-r      rm-r directory name (r means recursive)  it will delete the specified directory , even though the directory has files in it
+
+ cp      cp  path1/filename  path2         it will copy the file form one directory to another or within the same also
+
+
+mv	mv  path1/filenam    path2        it will copy the file form one directory to another or within the same also
+
+
+mv       mv filename   filename1           can rename the file within the same directory
+
+cat      cat  filename                  it shows the content in the specified file
+
