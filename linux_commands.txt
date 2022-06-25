@@ -1,0 +1,9 @@
+PWD - Print working directory
+
+whoami: will print the current logged users name
+
+ cd. cd.. cd will changethe directories
+
+mkdir will create the folder
+
+ls list all the files
