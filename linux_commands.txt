@@ -28,3 +28,13 @@ mv       mv filename   filename1           can rename the file within the same d
 
 cat      cat  filename                  it shows the content in the specified file
 
+nano    nano filename                this opens the editor to edit the file,,,,    ctrl+o:- saves the file       ctrl+x:--exits from the editor
+
+vi      vi   filename                this opens the vi editor to edit the file      i : insert mode to edit      :wq  :=to exitfrom the editor
+
+
+cat >    cat > filename                  this command replaces the older content with the new content
+
+
+cat >>     cat  >> filename              this command adds new content with older content in the specified file
+
