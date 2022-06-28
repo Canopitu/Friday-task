@@ -3,6 +3,6 @@ b=9
 if [ $a -eq $b ]
 then
  echo  "you are inside (if)"
-fi
+else
 echo "you are out of (if)"
-
+fi
