@@ -1,3 +1,4 @@
+#using read command printing 
 echo "enter first number"
 
 read number1
