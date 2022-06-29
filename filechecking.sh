@@ -1,3 +1,4 @@
+#program for file checking
 echo "enter name:"
 read name
 if [ -f $name ] 

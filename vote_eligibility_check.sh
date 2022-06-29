@@ -1,3 +1,4 @@
+#program for vote eligibility
 echo "enter your age"
 read age
 if [ $age -ge 18 ]

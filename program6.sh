@@ -1,3 +1,4 @@
+#program for determining greater number
 echo "enter number 1"
 read num1
 echo "enter number 2"
