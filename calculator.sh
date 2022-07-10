@@ -6,7 +6,7 @@ echo "1 add"
 echo "2 sub"
 echo "3 mul"
 echo "4 div"
-
+echo "5 exit"
 read -p "enter your choice:" choice
 case $choice in
 1)
@@ -14,7 +14,7 @@ sum=$((num1+num2))
 echo "sum is $sum"
 ;;
 2)
-if [ $num1 -gt $ num2 ]
+if [ $num1 -gt $num2 ]
 then
 diff=$((num1-num2))
 else
